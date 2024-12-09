@@ -8,3 +8,4 @@ and are linked directly to their associated repo.
 - [Inventory](https://github.com/311993/Inventory)
 - [Object4D](https://github.com/shivamengineer/Object4D)
 - [Point3D](https://github.com/jrg94/Point3D)
+- [RateTable](https://github.com/ryouimet/exchange-rate-table)
