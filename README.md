@@ -5,6 +5,7 @@ components created by students. Components are listed alphabetically
 and are linked directly to their associated repo.
 
 - [AsciiBattle](https://github.com/UncleKennyKevin/portfolio-project-main)
+- [Circuit](https://github.com/CadenHansen/Circuit)
 - [DiscGolfScorecard](https://github.com/lukezhang23/DiscGolfScorecard)
 - [Inventory](https://github.com/311993/Inventory)
 - [Object4D](https://github.com/shivamengineer/Object4D)
